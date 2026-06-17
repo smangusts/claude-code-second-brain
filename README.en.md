@@ -1,6 +1,6 @@
 # An accumulative "second brain" on top of Claude Code
 
-> Language: English · Русский: [README.md](README.md) · Presentation: [PRESENTATION.en.md](PRESENTATION.en.md)
+> Language: English · Русский: [README.md](README.md) · Presentation (PDF): [presentation-en.pdf](presentation-en.pdf) · [Русская презентация](presentation-ru.pdf)
 
 
 A layer that turns a one-off chat with an AI assistant into an accumulative, self-improving system. Every session adds knowledge to long-term memory. Every mistake becomes a lesson. Every rule is enforced by machine, not by human memory. Background timers tidy things up at night, and external research is pulled into memory for free.
