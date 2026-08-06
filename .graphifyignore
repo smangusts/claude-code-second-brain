@@ -1,0 +1,78 @@
+# Канонический .graphifyignore — Antigravity
+# Источник политики: PLANS/NEXT_SESSION_graph_injection_coverage.md, Фаза 0 (17.06.2026).
+# Раскладывается в КОРЕНЬ каждого graphify-проекта (deploy_graphifyignore) для единого охвата.
+#
+# ПОЛИТИКА ОХВАТА:
+#   ИНДЕКСИРУЕМ: код (.py/.js/.ts/.tsx/.jsx/.vue/.sh) → file_type=code;
+#               docs (.md) → file_type=document/rationale («что значит»);
+#               config (.json/.yml/.yaml/.toml) → лёгкие узлы.
+#   ИСКЛЮЧАЕМ:  vendor/build/generated, медиа/бинарь, data-дампы.
+# NB: graphify нативно классифицирует .md→document, .json→config (проверено 17.06 на
+#     rapa graph.json: 1173 .md document-узла). Поэтому *.md / *.json НЕ исключаем —
+#     именно они несут смысл «что значит», который и нужен в сессии.
+
+# --- vendor / build / generated ---
+.git/
+.venv/
+.venv*/
+venv/
+env/
+site-packages/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+htmlcov/
+graphify-out/
+.playwright-mcp/
+.claude/
+templates/
+static/
+
+# --- медиа / бинарь (AST нет, смысла как узел нет) ---
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.svg
+*.ico
+*.gif
+*.pdf
+*.mp3
+*.mp4
+*.mov
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.zip
+*.gz
+*.lock
+
+# --- data-дампы / сгенерированные страницы ---
+*.csv
+*.tsv
+*.parquet
+page-*.html
+
+# --- снапшоты комплектов / поставки (06.08.2026, план graphify_ugmk_repair §3) ---
+# Политика: граф покрывает ЖИВОЙ код; копии-снапшоты и поставки — build-артефакты.
+# work_MMDD — датированные снапшоты комплектов (ugmk pavel/complex-v1: 7175 файлов
+# из 7452 в AST — 96% графа было мусором). Коллатерал проверен 06.08: папок с
+# такими именами нет ни в одном другом проекте Projects/*.
+# Codex 06.08 F3: без якоря deliverables/ и windows/ ловили бы ЛЮБУЮ глубину —
+# гипотетический живой src/windows/ тихо выпал бы из графа. Якорим к фактическим
+# местам снапшотов ugmk; work_MMDD достаточно специфичен, остаётся глобальным.
+work_[01][0-9][0-9][0-9]/
+pavel/*/deliverables/
+pavel/*/windows/
+vision/deliverables/
+# backups/ — копии по определению (18:58 06.08, ревизия графов: akb 43% узлов
+# было из backups/). Есть в akb, rapa, federation rules-editor — везде копии.
+backups/
