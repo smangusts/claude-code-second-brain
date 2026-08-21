@@ -4,345 +4,135 @@
   "graph": {},
   "nodes": [
     {
-      "label": "PROJECT-CARD.md",
+      "label": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: 4 \u043a\u043e\u043d\u0442\u0443\u0440\u0430",
       "file_type": "document",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L1",
-      "id": "project_card",
-      "community": 4,
-      "norm_label": "project-card.md"
-    },
-    {
-      "label": "second-brain-writeup",
-      "file_type": "document",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L11",
-      "id": "project_card_second_brain_writeup",
-      "community": 4,
-      "norm_label": "second-brain-writeup"
-    },
-    {
-      "label": "\u00a71 \u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435",
-      "file_type": "document",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L17",
-      "id": "project_card_1_\u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435",
-      "community": 4,
-      "norm_label": "\u00a71 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435"
-    },
-    {
-      "label": "\u00a78 Open questions",
-      "file_type": "document",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L21",
-      "id": "project_card_8_open_questions",
-      "community": 4,
-      "norm_label": "\u00a78 open questions"
-    },
-    {
-      "label": "README.en.md",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L1",
-      "id": "readme_en",
-      "community": 1,
-      "norm_label": "readme.en.md"
-    },
-    {
-      "label": "An accumulative \"second brain\" on top of Claude Code",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L1",
-      "id": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "community": 1,
-      "norm_label": "an accumulative \"second brain\" on top of claude code"
-    },
-    {
-      "label": "In one paragraph",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L14",
-      "id": "readme_en_in_one_paragraph",
-      "community": 1,
-      "norm_label": "in one paragraph"
-    },
-    {
-      "label": "Scale (snapshot on 17.06.2026, numbers verified)",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L20",
-      "id": "readme_en_scale_snapshot_on_17_06_2026_numbers_verified",
-      "community": 1,
-      "norm_label": "scale (snapshot on 17.06.2026, numbers verified)"
-    },
-    {
-      "label": "Architecture: four loops",
-      "file_type": "document",
-      "source_file": "README.en.md",
+      "source_file": "README.md",
       "source_location": "L42",
-      "id": "readme_en_architecture_four_loops",
-      "community": 1,
-      "norm_label": "architecture: four loops"
+      "_origin": "ast",
+      "id": "readme_\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430_4_\u043a\u043e\u043d\u0442\u0443\u0440\u0430",
+      "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: 4 \u043a\u043e\u043d\u0442\u0443\u0440\u0430"
     },
     {
-      "label": "Design principles",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L53",
-      "id": "readme_en_design_principles",
-      "community": 3,
-      "norm_label": "design principles"
-    },
-    {
-      "label": "1. Zettelkasten: atomic linked knowledge",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L55",
-      "id": "readme_en_1_zettelkasten_atomic_linked_knowledge",
-      "community": 3,
-      "norm_label": "1. zettelkasten: atomic linked knowledge"
-    },
-    {
-      "label": "2. Knowledge graph: a directed scale-free network",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L61",
-      "id": "readme_en_2_knowledge_graph_a_directed_scale_free_network",
-      "community": 3,
-      "norm_label": "2. knowledge graph: a directed scale-free network"
-    },
-    {
-      "label": "3. Accumulative self-evolution (the Karpathy approach)",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L65",
-      "id": "readme_en_3_accumulative_self_evolution_the_karpathy_approach",
-      "community": 3,
-      "norm_label": "3. accumulative self-evolution (the karpathy approach)"
-    },
-    {
-      "label": "4. Cross-project memory as a load-bearing structure",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L76",
-      "id": "readme_en_4_cross_project_memory_as_a_load_bearing_structure",
-      "community": 3,
-      "norm_label": "4. cross-project memory as a load-bearing structure"
-    },
-    {
-      "label": "5. Versioned, portable storage",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L80",
-      "id": "readme_en_5_versioned_portable_storage",
-      "community": 3,
-      "norm_label": "5. versioned, portable storage"
-    },
-    {
-      "label": "Working with external repositories",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L86",
-      "id": "readme_en_working_with_external_repositories",
-      "community": 1,
-      "norm_label": "working with external repositories"
-    },
-    {
-      "label": "Self-development",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L101",
-      "id": "readme_en_self_development",
-      "community": 1,
-      "norm_label": "self-development"
-    },
-    {
-      "label": "Memory loop: six tiers",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L115",
-      "id": "readme_en_memory_loop_six_tiers",
-      "community": 1,
-      "norm_label": "memory loop: six tiers"
-    },
-    {
-      "label": "Learning loop: eight phases",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L130",
-      "id": "readme_en_learning_loop_eight_phases",
-      "community": 1,
-      "norm_label": "learning loop: eight phases"
-    },
-    {
-      "label": "Protection loop: rules and hooks",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L136",
-      "id": "readme_en_protection_loop_rules_and_hooks",
-      "community": 1,
-      "norm_label": "protection loop: rules and hooks"
-    },
-    {
-      "label": "Observation and quality control",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L146",
-      "id": "readme_en_observation_and_quality_control",
-      "community": 1,
-      "norm_label": "observation and quality control"
-    },
-    {
-      "label": "How it grew",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L156",
-      "id": "readme_en_how_it_grew",
-      "community": 1,
-      "norm_label": "how it grew"
-    },
-    {
-      "label": "Time and volume",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L169",
-      "id": "readme_en_time_and_volume",
-      "community": 1,
-      "norm_label": "time and volume"
-    },
-    {
-      "label": "Maturity",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L178",
-      "id": "readme_en_maturity",
-      "community": 1,
-      "norm_label": "maturity"
-    },
-    {
-      "label": "Honest limitations",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L186",
-      "id": "readme_en_honest_limitations",
-      "community": 1,
-      "norm_label": "honest limitations"
-    },
-    {
-      "label": "Bottom line",
-      "file_type": "document",
-      "source_file": "README.en.md",
-      "source_location": "L199",
-      "id": "readme_en_bottom_line",
-      "community": 1,
-      "norm_label": "bottom line"
-    },
-    {
-      "label": "README.md",
+      "label": "\u0412\u0440\u0435\u043c\u044f \u0438 \u043e\u0431\u044a\u0451\u043c \u0440\u0430\u0431\u043e\u0442\u044b",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L1",
-      "id": "readme",
+      "source_location": "L183",
+      "_origin": "ast",
+      "id": "readme_\u0432\u0440\u0435\u043c\u044f_\u0438_\u043e\u0431\u044a\u0451\u043c_\u0440\u0430\u0431\u043e\u0442\u044b",
       "community": 0,
-      "norm_label": "readme.md"
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u0432\u0440\u0435\u043c\u044f \u0438 \u043e\u0431\u044a\u0435\u043c \u0440\u0430\u0431\u043e\u0442\u044b"
     },
     {
-      "label": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "label": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0432\u044b\u0432\u043e\u0434",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L1",
-      "id": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "source_location": "L215",
+      "_origin": "ast",
+      "id": "readme_\u0433\u043b\u0430\u0432\u043d\u044b\u0439_\u0432\u044b\u0432\u043e\u0434",
       "community": 0,
-      "norm_label": "\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0438 \u00ab\u0432\u0442\u043e\u0440\u043e\u0438 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 claude code"
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u0433\u043b\u0430\u0432\u043d\u044b\u0438 \u0432\u044b\u0432\u043e\u0434"
     },
     {
-      "label": "\u0421\u0443\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u0430\u0431\u0437\u0430\u0446\u0435\u043c",
+      "label": "\u0417\u0440\u0435\u043b\u043e\u0441\u0442\u044c",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L14",
-      "id": "readme_\u0441\u0443\u0442\u044c_\u043e\u0434\u043d\u0438\u043c_\u0430\u0431\u0437\u0430\u0446\u0435\u043c",
+      "source_location": "L194",
+      "_origin": "ast",
+      "id": "readme_\u0437\u0440\u0435\u043b\u043e\u0441\u0442\u044c",
       "community": 0,
-      "norm_label": "\u0441\u0443\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u0430\u0431\u0437\u0430\u0446\u0435\u043c"
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u0437\u0440\u0435\u043b\u043e\u0441\u0442\u044c"
+    },
+    {
+      "label": "\u041a\u0430\u043a \u044d\u0442\u043e \u0440\u043e\u0441\u043b\u043e",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L171",
+      "_origin": "ast",
+      "id": "readme_\u043a\u0430\u043a_\u044d\u0442\u043e_\u0440\u043e\u0441\u043b\u043e",
+      "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u043a\u0430\u043a \u044d\u0442\u043e \u0440\u043e\u0441\u043b\u043e"
+    },
+    {
+      "label": "\u041a\u043e\u043d\u0442\u0443\u0440 \u0437\u0430\u0449\u0438\u0442\u044b: \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438 \u0445\u0443\u043a\u0438",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L149",
+      "_origin": "ast",
+      "id": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u0437\u0430\u0449\u0438\u0442\u044b_\u043f\u0440\u0430\u0432\u0438\u043b\u0430_\u0438_\u0445\u0443\u043a\u0438",
+      "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u043a\u043e\u043d\u0442\u0443\u0440 \u0437\u0430\u0449\u0438\u0442\u044b: \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438 \u0445\u0443\u043a\u0438"
+    },
+    {
+      "label": "\u041a\u043e\u043d\u0442\u0443\u0440 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f: 8 \u0444\u0430\u0437",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L134",
+      "_origin": "ast",
+      "id": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f_8_\u0444\u0430\u0437",
+      "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u043a\u043e\u043d\u0442\u0443\u0440 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f: 8 \u0444\u0430\u0437"
+    },
+    {
+      "label": "\u041a\u043e\u043d\u0442\u0443\u0440 \u043f\u0430\u043c\u044f\u0442\u0438: 6 \u0443\u0440\u043e\u0432\u043d\u0435\u0439",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L119",
+      "_origin": "ast",
+      "id": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043f\u0430\u043c\u044f\u0442\u0438_6_\u0443\u0440\u043e\u0432\u043d\u0435\u0439",
+      "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u043a\u043e\u043d\u0442\u0443\u0440 \u043f\u0430\u043c\u044f\u0442\u0438: 6 \u0443\u0440\u043e\u0432\u043d\u0435\u0438"
     },
     {
       "label": "\u041c\u0430\u0441\u0448\u0442\u0430\u0431 (\u0441\u043d\u0438\u043c\u043e\u043a \u043d\u0430 17.06.2026, \u0447\u0438\u0441\u043b\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u044b \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u043e\u0439)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L20",
+      "_origin": "ast",
       "id": "readme_\u043c\u0430\u0441\u0448\u0442\u0430\u0431_\u0441\u043d\u0438\u043c\u043e\u043a_\u043d\u0430_17_06_2026_\u0447\u0438\u0441\u043b\u0430_\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u044b_\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u043e\u0439",
       "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
       "norm_label": "\u043c\u0430\u0441\u0448\u0442\u0430\u0431 (\u0441\u043d\u0438\u043c\u043e\u043a \u043d\u0430 17.06.2026, \u0447\u0438\u0441\u043b\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u044b \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u043e\u0438)"
     },
     {
-      "label": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: 4 \u043a\u043e\u043d\u0442\u0443\u0440\u0430",
+      "label": "\u041d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L42",
-      "id": "readme_\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430_4_\u043a\u043e\u043d\u0442\u0443\u0440\u0430",
+      "source_location": "L161",
+      "_origin": "ast",
+      "id": "readme_\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435_\u0438_\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c_\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
       "community": 0,
-      "norm_label": "\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: 4 \u043a\u043e\u043d\u0442\u0443\u0440\u0430"
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430"
     },
     {
-      "label": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "label": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L53",
-      "id": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
-      "community": 2,
-      "norm_label": "\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b"
-    },
-    {
-      "label": "1. Zettelkasten: \u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L55",
-      "id": "readme_1_zettelkasten_\u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435_\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435_\u0437\u043d\u0430\u043d\u0438\u0435",
-      "community": 2,
-      "norm_label": "1. zettelkasten: \u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435"
-    },
-    {
-      "label": "2. \u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439: \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f scale-free \u0441\u0435\u0442\u044c",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L63",
-      "id": "readme_2_\u0433\u0440\u0430\u0444_\u0437\u043d\u0430\u043d\u0438\u0439_\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f_scale_free_\u0441\u0435\u0442\u044c",
-      "community": 2,
-      "norm_label": "2. \u0433\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0438: \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f scale-free \u0441\u0435\u0442\u044c"
-    },
-    {
-      "label": "3. \u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f (\u043f\u043e\u0434\u0445\u043e\u0434 \u041a\u0430\u0440\u043f\u0430\u0442\u0442\u0438)",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L67",
-      "id": "readme_3_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f_\u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f_\u043f\u043e\u0434\u0445\u043e\u0434_\u043a\u0430\u0440\u043f\u0430\u0442\u0442\u0438",
-      "community": 2,
-      "norm_label": "3. \u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f (\u043f\u043e\u0434\u0445\u043e\u0434 \u043a\u0430\u0440\u043f\u0430\u0442\u0442\u0438)"
-    },
-    {
-      "label": "4. \u041c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c: \u043e\u0431\u0449\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c \u043a\u0430\u043a \u043d\u0435\u0441\u0443\u0449\u0430\u044f \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L78",
-      "id": "readme_4_\u043c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c_\u043e\u0431\u0449\u0430\u044f_\u043f\u0430\u043c\u044f\u0442\u044c_\u043a\u0430\u043a_\u043d\u0435\u0441\u0443\u0449\u0430\u044f_\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f",
-      "community": 2,
-      "norm_label": "4. \u043c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c: \u043e\u0431\u0449\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c \u043a\u0430\u043a \u043d\u0435\u0441\u0443\u0449\u0430\u044f \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f"
-    },
-    {
-      "label": "5. \u0412\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L82",
-      "id": "readme_5_\u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435_\u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435_\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
-      "community": 2,
-      "norm_label": "5. \u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435"
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0438 \u00ab\u0432\u0442\u043e\u0440\u043e\u0438 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 claude code"
     },
     {
       "label": "\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u043c\u0438",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L88",
+      "_origin": "ast",
       "id": "readme_\u0440\u0430\u0431\u043e\u0442\u0430_\u0441_\u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438_\u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u043c\u0438",
       "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
       "norm_label": "\u0440\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u043c\u0438"
     },
     {
@@ -350,121 +140,364 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L104",
+      "_origin": "ast",
       "id": "readme_\u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0435_\u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435",
       "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
       "norm_label": "\u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435"
     },
     {
-      "label": "\u041a\u043e\u043d\u0442\u0443\u0440 \u043f\u0430\u043c\u044f\u0442\u0438: 6 \u0443\u0440\u043e\u0432\u043d\u0435\u0439",
+      "label": "\u0421\u0443\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u0430\u0431\u0437\u0430\u0446\u0435\u043c",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L119",
-      "id": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043f\u0430\u043c\u044f\u0442\u0438_6_\u0443\u0440\u043e\u0432\u043d\u0435\u0439",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "readme_\u0441\u0443\u0442\u044c_\u043e\u0434\u043d\u0438\u043c_\u0430\u0431\u0437\u0430\u0446\u0435\u043c",
       "community": 0,
-      "norm_label": "\u043a\u043e\u043d\u0442\u0443\u0440 \u043f\u0430\u043c\u044f\u0442\u0438: 6 \u0443\u0440\u043e\u0432\u043d\u0435\u0438"
-    },
-    {
-      "label": "\u041a\u043e\u043d\u0442\u0443\u0440 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f: 8 \u0444\u0430\u0437",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L134",
-      "id": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f_8_\u0444\u0430\u0437",
-      "community": 0,
-      "norm_label": "\u043a\u043e\u043d\u0442\u0443\u0440 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f: 8 \u0444\u0430\u0437"
-    },
-    {
-      "label": "\u041a\u043e\u043d\u0442\u0443\u0440 \u0437\u0430\u0449\u0438\u0442\u044b: \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438 \u0445\u0443\u043a\u0438",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L149",
-      "id": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u0437\u0430\u0449\u0438\u0442\u044b_\u043f\u0440\u0430\u0432\u0438\u043b\u0430_\u0438_\u0445\u0443\u043a\u0438",
-      "community": 0,
-      "norm_label": "\u043a\u043e\u043d\u0442\u0443\u0440 \u0437\u0430\u0449\u0438\u0442\u044b: \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438 \u0445\u0443\u043a\u0438"
-    },
-    {
-      "label": "\u041d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L161",
-      "id": "readme_\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435_\u0438_\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c_\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
-      "community": 0,
-      "norm_label": "\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430"
-    },
-    {
-      "label": "\u041a\u0430\u043a \u044d\u0442\u043e \u0440\u043e\u0441\u043b\u043e",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L171",
-      "id": "readme_\u043a\u0430\u043a_\u044d\u0442\u043e_\u0440\u043e\u0441\u043b\u043e",
-      "community": 0,
-      "norm_label": "\u043a\u0430\u043a \u044d\u0442\u043e \u0440\u043e\u0441\u043b\u043e"
-    },
-    {
-      "label": "\u0412\u0440\u0435\u043c\u044f \u0438 \u043e\u0431\u044a\u0451\u043c \u0440\u0430\u0431\u043e\u0442\u044b",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L183",
-      "id": "readme_\u0432\u0440\u0435\u043c\u044f_\u0438_\u043e\u0431\u044a\u0451\u043c_\u0440\u0430\u0431\u043e\u0442\u044b",
-      "community": 0,
-      "norm_label": "\u0432\u0440\u0435\u043c\u044f \u0438 \u043e\u0431\u044a\u0435\u043c \u0440\u0430\u0431\u043e\u0442\u044b"
-    },
-    {
-      "label": "\u0417\u0440\u0435\u043b\u043e\u0441\u0442\u044c",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L194",
-      "id": "readme_\u0437\u0440\u0435\u043b\u043e\u0441\u0442\u044c",
-      "community": 0,
-      "norm_label": "\u0437\u0440\u0435\u043b\u043e\u0441\u0442\u044c"
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
+      "norm_label": "\u0441\u0443\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u0430\u0431\u0437\u0430\u0446\u0435\u043c"
     },
     {
       "label": "\u0427\u0435\u0441\u0442\u043d\u044b\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L202",
+      "_origin": "ast",
       "id": "readme_\u0447\u0435\u0441\u0442\u043d\u044b\u0435_\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f",
       "community": 0,
+      "community_name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u00ab\u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u043f\u043e\u0432\u0435\u0440\u0445 Claude Code",
       "norm_label": "\u0447\u0435\u0441\u0442\u043d\u044b\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f"
     },
     {
-      "label": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0432\u044b\u0432\u043e\u0434",
+      "label": "An accumulative \"second brain\" on top of Claude Code",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "an accumulative \"second brain\" on top of claude code"
+    },
+    {
+      "label": "Architecture: four loops",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "readme_en_architecture_four_loops",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "architecture: four loops"
+    },
+    {
+      "label": "Bottom line",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L199",
+      "_origin": "ast",
+      "id": "readme_en_bottom_line",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "bottom line"
+    },
+    {
+      "label": "Honest limitations",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L186",
+      "_origin": "ast",
+      "id": "readme_en_honest_limitations",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "honest limitations"
+    },
+    {
+      "label": "How it grew",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L156",
+      "_origin": "ast",
+      "id": "readme_en_how_it_grew",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "how it grew"
+    },
+    {
+      "label": "In one paragraph",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "readme_en_in_one_paragraph",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "in one paragraph"
+    },
+    {
+      "label": "Learning loop: eight phases",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L130",
+      "_origin": "ast",
+      "id": "readme_en_learning_loop_eight_phases",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "learning loop: eight phases"
+    },
+    {
+      "label": "Maturity",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L178",
+      "_origin": "ast",
+      "id": "readme_en_maturity",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "maturity"
+    },
+    {
+      "label": "Memory loop: six tiers",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L115",
+      "_origin": "ast",
+      "id": "readme_en_memory_loop_six_tiers",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "memory loop: six tiers"
+    },
+    {
+      "label": "Observation and quality control",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L146",
+      "_origin": "ast",
+      "id": "readme_en_observation_and_quality_control",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "observation and quality control"
+    },
+    {
+      "label": "Protection loop: rules and hooks",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L136",
+      "_origin": "ast",
+      "id": "readme_en_protection_loop_rules_and_hooks",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "protection loop: rules and hooks"
+    },
+    {
+      "label": "Scale (snapshot on 17.06.2026, numbers verified)",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "readme_en_scale_snapshot_on_17_06_2026_numbers_verified",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "scale (snapshot on 17.06.2026, numbers verified)"
+    },
+    {
+      "label": "Self-development",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L101",
+      "_origin": "ast",
+      "id": "readme_en_self_development",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "self-development"
+    },
+    {
+      "label": "Time and volume",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L169",
+      "_origin": "ast",
+      "id": "readme_en_time_and_volume",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "time and volume"
+    },
+    {
+      "label": "Working with external repositories",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L86",
+      "_origin": "ast",
+      "id": "readme_en_working_with_external_repositories",
+      "community": 1,
+      "community_name": "An accumulative \"second brain\" on top of Claude Code",
+      "norm_label": "working with external repositories"
+    },
+    {
+      "label": "1. Zettelkasten: \u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L215",
-      "id": "readme_\u0433\u043b\u0430\u0432\u043d\u044b\u0439_\u0432\u044b\u0432\u043e\u0434",
-      "community": 0,
-      "norm_label": "\u0433\u043b\u0430\u0432\u043d\u044b\u0438 \u0432\u044b\u0432\u043e\u0434"
+      "source_location": "L55",
+      "_origin": "ast",
+      "id": "readme_1_zettelkasten_\u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435_\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435_\u0437\u043d\u0430\u043d\u0438\u0435",
+      "community": 2,
+      "community_name": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "norm_label": "1. zettelkasten: \u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435"
+    },
+    {
+      "label": "2. \u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439: \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f scale-free \u0441\u0435\u0442\u044c",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L63",
+      "_origin": "ast",
+      "id": "readme_2_\u0433\u0440\u0430\u0444_\u0437\u043d\u0430\u043d\u0438\u0439_\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f_scale_free_\u0441\u0435\u0442\u044c",
+      "community": 2,
+      "community_name": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "norm_label": "2. \u0433\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0438: \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f scale-free \u0441\u0435\u0442\u044c"
+    },
+    {
+      "label": "3. \u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f (\u043f\u043e\u0434\u0445\u043e\u0434 \u041a\u0430\u0440\u043f\u0430\u0442\u0442\u0438)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "_origin": "ast",
+      "id": "readme_3_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f_\u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f_\u043f\u043e\u0434\u0445\u043e\u0434_\u043a\u0430\u0440\u043f\u0430\u0442\u0442\u0438",
+      "community": 2,
+      "community_name": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "norm_label": "3. \u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f (\u043f\u043e\u0434\u0445\u043e\u0434 \u043a\u0430\u0440\u043f\u0430\u0442\u0442\u0438)"
+    },
+    {
+      "label": "4. \u041c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c: \u043e\u0431\u0449\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c \u043a\u0430\u043a \u043d\u0435\u0441\u0443\u0449\u0430\u044f \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L78",
+      "_origin": "ast",
+      "id": "readme_4_\u043c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c_\u043e\u0431\u0449\u0430\u044f_\u043f\u0430\u043c\u044f\u0442\u044c_\u043a\u0430\u043a_\u043d\u0435\u0441\u0443\u0449\u0430\u044f_\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f",
+      "community": 2,
+      "community_name": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "norm_label": "4. \u043c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c: \u043e\u0431\u0449\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c \u043a\u0430\u043a \u043d\u0435\u0441\u0443\u0449\u0430\u044f \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f"
+    },
+    {
+      "label": "5. \u0412\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L82",
+      "_origin": "ast",
+      "id": "readme_5_\u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435_\u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435_\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
+      "community": 2,
+      "community_name": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "norm_label": "5. \u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435"
+    },
+    {
+      "label": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "_origin": "ast",
+      "id": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "community": 2,
+      "community_name": "\u0417\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "norm_label": "\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b"
+    },
+    {
+      "label": "1. Zettelkasten: atomic linked knowledge",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L55",
+      "_origin": "ast",
+      "id": "readme_en_1_zettelkasten_atomic_linked_knowledge",
+      "community": 3,
+      "community_name": "Design principles",
+      "norm_label": "1. zettelkasten: atomic linked knowledge"
+    },
+    {
+      "label": "2. Knowledge graph: a directed scale-free network",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L61",
+      "_origin": "ast",
+      "id": "readme_en_2_knowledge_graph_a_directed_scale_free_network",
+      "community": 3,
+      "community_name": "Design principles",
+      "norm_label": "2. knowledge graph: a directed scale-free network"
+    },
+    {
+      "label": "3. Accumulative self-evolution (the Karpathy approach)",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L65",
+      "_origin": "ast",
+      "id": "readme_en_3_accumulative_self_evolution_the_karpathy_approach",
+      "community": 3,
+      "community_name": "Design principles",
+      "norm_label": "3. accumulative self-evolution (the karpathy approach)"
+    },
+    {
+      "label": "4. Cross-project memory as a load-bearing structure",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L76",
+      "_origin": "ast",
+      "id": "readme_en_4_cross_project_memory_as_a_load_bearing_structure",
+      "community": 3,
+      "community_name": "Design principles",
+      "norm_label": "4. cross-project memory as a load-bearing structure"
+    },
+    {
+      "label": "5. Versioned, portable storage",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L80",
+      "_origin": "ast",
+      "id": "readme_en_5_versioned_portable_storage",
+      "community": 3,
+      "community_name": "Design principles",
+      "norm_label": "5. versioned, portable storage"
+    },
+    {
+      "label": "Design principles",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L53",
+      "_origin": "ast",
+      "id": "readme_en_design_principles",
+      "community": 3,
+      "community_name": "Design principles",
+      "norm_label": "design principles"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 4,
+      "community_name": "README.md",
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "README.en.md",
+      "file_type": "document",
+      "source_file": "README.en.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_en",
+      "community": 4,
+      "community_name": "README.md",
+      "norm_label": "readme.en.md"
     }
   ],
   "links": [
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L11",
+      "source_file": "README.md",
+      "source_location": "L1",
       "weight": 1.0,
-      "source": "project_card",
-      "target": "project_card_second_brain_writeup",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L17",
-      "weight": 1.0,
-      "source": "project_card_second_brain_writeup",
-      "target": "project_card_1_\u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "PROJECT-CARD.md",
-      "source_location": "L21",
-      "weight": 1.0,
-      "source": "project_card_second_brain_writeup",
-      "target": "project_card_8_open_questions",
+      "_origin": "ast",
+      "source": "readme",
+      "target": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
       "confidence_score": 1.0
     },
     {
@@ -473,6 +506,7 @@
       "source_file": "README.en.md",
       "source_location": "L1",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en",
       "target": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
       "confidence_score": 1.0
@@ -481,128 +515,9 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.en.md",
-      "source_location": "L42",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_architecture_four_loops",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L199",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_bottom_line",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L53",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_design_principles",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L186",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_honest_limitations",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L156",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_how_it_grew",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_in_one_paragraph",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L130",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_learning_loop_eight_phases",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L178",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_maturity",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L115",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_memory_loop_six_tiers",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L146",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_observation_and_quality_control",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L136",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_protection_loop_rules_and_hooks",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
-      "source_location": "L20",
-      "weight": 1.0,
-      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
-      "target": "readme_en_scale_snapshot_on_17_06_2026_numbers_verified",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.en.md",
       "source_location": "L101",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
       "target": "readme_en_self_development",
       "confidence_score": 1.0
@@ -611,8 +526,75 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.en.md",
+      "source_location": "L115",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_memory_loop_six_tiers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L130",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_learning_loop_eight_phases",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L136",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_protection_loop_rules_and_hooks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_in_one_paragraph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L146",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_observation_and_quality_control",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L156",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_how_it_grew",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
       "source_location": "L169",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
       "target": "readme_en_time_and_volume",
       "confidence_score": 1.0
@@ -621,8 +603,75 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.en.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_maturity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L186",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_honest_limitations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L199",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_bottom_line",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_scale_snapshot_on_17_06_2026_numbers_verified",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_architecture_four_loops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
+      "target": "readme_en_design_principles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.en.md",
       "source_location": "L86",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_an_accumulative_second_brain_on_top_of_claude_code",
       "target": "readme_en_working_with_external_repositories",
       "confidence_score": 1.0
@@ -633,6 +682,7 @@
       "source_file": "README.en.md",
       "source_location": "L55",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_design_principles",
       "target": "readme_en_1_zettelkasten_atomic_linked_knowledge",
       "confidence_score": 1.0
@@ -643,6 +693,7 @@
       "source_file": "README.en.md",
       "source_location": "L61",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_design_principles",
       "target": "readme_en_2_knowledge_graph_a_directed_scale_free_network",
       "confidence_score": 1.0
@@ -653,6 +704,7 @@
       "source_file": "README.en.md",
       "source_location": "L65",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_design_principles",
       "target": "readme_en_3_accumulative_self_evolution_the_karpathy_approach",
       "confidence_score": 1.0
@@ -663,6 +715,7 @@
       "source_file": "README.en.md",
       "source_location": "L76",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_design_principles",
       "target": "readme_en_4_cross_project_memory_as_a_load_bearing_structure",
       "confidence_score": 1.0
@@ -673,6 +726,7 @@
       "source_file": "README.en.md",
       "source_location": "L80",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_en_design_principles",
       "target": "readme_en_5_versioned_portable_storage",
       "confidence_score": 1.0
@@ -681,168 +735,9 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "source": "readme",
-      "target": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L42",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430_4_\u043a\u043e\u043d\u0442\u0443\u0440\u0430",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L183",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0432\u0440\u0435\u043c\u044f_\u0438_\u043e\u0431\u044a\u0451\u043c_\u0440\u0430\u0431\u043e\u0442\u044b",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L215",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0433\u043b\u0430\u0432\u043d\u044b\u0439_\u0432\u044b\u0432\u043e\u0434",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L53",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L194",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0437\u0440\u0435\u043b\u043e\u0441\u0442\u044c",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L171",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u043a\u0430\u043a_\u044d\u0442\u043e_\u0440\u043e\u0441\u043b\u043e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L149",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u0437\u0430\u0449\u0438\u0442\u044b_\u043f\u0440\u0430\u0432\u0438\u043b\u0430_\u0438_\u0445\u0443\u043a\u0438",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L134",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f_8_\u0444\u0430\u0437",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L119",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043f\u0430\u043c\u044f\u0442\u0438_6_\u0443\u0440\u043e\u0432\u043d\u0435\u0439",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L20",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u043c\u0430\u0441\u0448\u0442\u0430\u0431_\u0441\u043d\u0438\u043c\u043e\u043a_\u043d\u0430_17_06_2026_\u0447\u0438\u0441\u043b\u0430_\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u044b_\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u043e\u0439",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L161",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435_\u0438_\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c_\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L88",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0440\u0430\u0431\u043e\u0442\u0430_\u0441_\u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438_\u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u043c\u0438",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L104",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0435_\u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0441\u0443\u0442\u044c_\u043e\u0434\u043d\u0438\u043c_\u0430\u0431\u0437\u0430\u0446\u0435\u043c",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L202",
-      "weight": 1.0,
-      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
-      "target": "readme_\u0447\u0435\u0441\u0442\u043d\u044b\u0435_\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
       "source_location": "L55",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
       "target": "readme_1_zettelkasten_\u0430\u0442\u043e\u043c\u0430\u0440\u043d\u043e\u0435_\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435_\u0437\u043d\u0430\u043d\u0438\u0435",
       "confidence_score": 1.0
@@ -853,6 +748,7 @@
       "source_file": "README.md",
       "source_location": "L63",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
       "target": "readme_2_\u0433\u0440\u0430\u0444_\u0437\u043d\u0430\u043d\u0438\u0439_\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f_scale_free_\u0441\u0435\u0442\u044c",
       "confidence_score": 1.0
@@ -863,6 +759,7 @@
       "source_file": "README.md",
       "source_location": "L67",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
       "target": "readme_3_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f_\u0441\u0430\u043c\u043e\u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f_\u043f\u043e\u0434\u0445\u043e\u0434_\u043a\u0430\u0440\u043f\u0430\u0442\u0442\u0438",
       "confidence_score": 1.0
@@ -873,6 +770,7 @@
       "source_file": "README.md",
       "source_location": "L78",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
       "target": "readme_4_\u043c\u0435\u0436\u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0441\u0442\u044c_\u043e\u0431\u0449\u0430\u044f_\u043f\u0430\u043c\u044f\u0442\u044c_\u043a\u0430\u043a_\u043d\u0435\u0441\u0443\u0449\u0430\u044f_\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f",
       "confidence_score": 1.0
@@ -883,11 +781,188 @@
       "source_file": "README.md",
       "source_location": "L82",
       "weight": 1.0,
+      "_origin": "ast",
       "source": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
       "target": "readme_5_\u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u043e\u0435_\u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0435_\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0435_\u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L119",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043f\u0430\u043c\u044f\u0442\u0438_6_\u0443\u0440\u043e\u0432\u043d\u0435\u0439",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f_8_\u0444\u0430\u0437",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0441\u0443\u0442\u044c_\u043e\u0434\u043d\u0438\u043c_\u0430\u0431\u0437\u0430\u0446\u0435\u043c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u043a\u043e\u043d\u0442\u0443\u0440_\u0437\u0430\u0449\u0438\u0442\u044b_\u043f\u0440\u0430\u0432\u0438\u043b\u0430_\u0438_\u0445\u0443\u043a\u0438",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L161",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435_\u0438_\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c_\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L171",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u043a\u0430\u043a_\u044d\u0442\u043e_\u0440\u043e\u0441\u043b\u043e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L183",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0432\u0440\u0435\u043c\u044f_\u0438_\u043e\u0431\u044a\u0451\u043c_\u0440\u0430\u0431\u043e\u0442\u044b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L194",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0437\u0440\u0435\u043b\u043e\u0441\u0442\u044c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u043c\u0430\u0441\u0448\u0442\u0430\u0431_\u0441\u043d\u0438\u043c\u043e\u043a_\u043d\u0430_17_06_2026_\u0447\u0438\u0441\u043b\u0430_\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u044b_\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u043e\u0439",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L202",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0447\u0435\u0441\u0442\u043d\u044b\u0435_\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L215",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0433\u043b\u0430\u0432\u043d\u044b\u0439_\u0432\u044b\u0432\u043e\u0434",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430_4_\u043a\u043e\u043d\u0442\u0443\u0440\u0430",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0437\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435_\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L88",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439_\u0432\u0442\u043e\u0440\u043e\u0439_\u043c\u043e\u0437\u0433_\u043f\u043e\u0432\u0435\u0440\u0445_claude_code",
+      "target": "readme_\u0440\u0430\u0431\u043e\u0442\u0430_\u0441_\u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438_\u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u043c\u0438",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme",
+      "target": "readme_en",
       "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4ad2f2eee90a36ffa86ea88f2da27b49f089a13b"
+  "built_at_commit": "39352f0dced9575c6e3ac8af3f32807887174d08"
 }
